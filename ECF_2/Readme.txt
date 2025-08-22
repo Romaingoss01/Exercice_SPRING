@@ -36,4 +36,8 @@ INSERT INTO travellog (observation_id, distance_km, mode, estimated_co2_kg)
 VALUES
 (2, 20.0, 'TRAIN', 0.6),
 (3, 5.0, 'BIKE', 0.0),
-(4, 300.0, 'PLANE', 77.7);   
+(4, 300.0, 'PLANE', 77.7);
+
+---------------------Lancement Application------------------------
+
+Ouvrez le dossier Environnement dans Intellij
